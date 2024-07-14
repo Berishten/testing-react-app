@@ -1,5 +1,8 @@
 ## Un pequeño ejemplo de como pasar datos entre componentes y trabajar con flux para Carolina
-
+Puedes revisar los detalles en [la carpeta principal](https://github.com/Berishten/testing-react-app/tree/main/app), lo archivos:
+- [page.tsx](https://github.com/Berishten/testing-react-app/tree/main/app)
+- [Fila.jsx](https://github.com/Berishten/testing-react-app/blob/main/app/components/Fila.jsx)
+- [InputPersonalizado.jsx](https://github.com/Berishten/testing-react-app/blob/main/app/components/InputPersonalizado.jsx)
 ## Recuerda instalar con:
     
 ```bash
